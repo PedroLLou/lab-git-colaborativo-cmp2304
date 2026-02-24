@@ -1,2 +1,3 @@
 # Lista de Presença - Atividade de Laboratório Git/GitHub
 20232002800772 Gabriel Bandeira
+20232002800470 Adriano Macedo das Mercez Filho
